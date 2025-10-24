@@ -5,7 +5,7 @@ A simple scraper for downloading wordpress plugins and themes. Built with the id
 
 ```
   -out string
-    	Path for storing downloads (default "/Users/dr.dope/code/wpplugin_scraper/wp_plugin_downloader")
+    	Path for storing downloads (default CWD)
   -pages int
     	Number of pages to scrape. (default 5)
   -url string
